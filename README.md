@@ -1,5 +1,5 @@
 HI ! I Am Ujjwal Gupta
-I Am Intrested In Web Development 
+I Am Intrested In Frontend Development 
 I have a strong grasp on  ReactJs Html Css Js Bootstrap Material ui
 I wanted to learn new things everyday cuz i love learning 
 - 📫 How to reach me ...  Email -> ujjwalguptawork@gmail.com  
